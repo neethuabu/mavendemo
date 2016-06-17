@@ -361,3 +361,6 @@ java.lang.RuntimeException
 
 !ENTRY org.eclipse.bpel.validator 1 0 2016-06-17 15:26:37.775
 !MESSAGE Validator Startup 40ms
+
+!ENTRY org.eclipse.emf.validation 2 70 2016-06-17 15:44:46.561
+!MESSAGE Constraint "com.tibco.amf.design.sr.core.internal.validation.constraints.SharedResourceNotInWorkspace" could not find target EMF type "Property."
